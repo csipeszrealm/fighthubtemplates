@@ -1,4 +1,4 @@
-Hey!
+**Hey!**
 My name is Csipesz. I made this template to fit my friends’ and my own playstyle, but I thought I’d share it with others too.
 
 We enjoy playing in a way where the first 2–3 months are all about preparation, and then everything is decided in one huge final battle. That’s what the hub is for: it’s the only zone from which you can enter the territories of other players. For us, a single match usually took around 2–3 hours of gameplay.
