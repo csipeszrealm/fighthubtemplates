@@ -15,3 +15,11 @@ The border guards are fairly strong; the recommended difficulty is 125–150%.
 - Copy the contents of the package into this folder:
 ` \steamapps\common\Heroes of Might and Magic Olden Era\HeroesOldenEra_Data\StreamingAssets\map_templates `
 - Done.
+
+There's two template available on the releases page
+
+### 3 player preview image:
+![asdasd](https://github.com/CsipeszRealm/Fighthubtemplates/blob/main/fighthub3p.png)
+
+### 4 player preview image:
+![asdasd](https://github.com/CsipeszRealm/Fighthubtemplates/blob/main/fighthub4p.png)
